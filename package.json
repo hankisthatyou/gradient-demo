@@ -1,0 +1,10 @@
+{
+  "name": "gotiger-gradient-demo",
+  "version": "1.0.0",
+  "main": "index.dbd0b314.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  }
+}
